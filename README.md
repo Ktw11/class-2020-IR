@@ -5,3 +5,10 @@ Structured data is easily managed with a relational database but textual informa
 Contact:
 * Instructor: Younghoon Kim (nongaussian@gmail.com)
 * TA: Jaeyoung Lee (wayexists02@gmail.com)
+
+## Goals
+* Understand how search engines work.
+* Understand the limits of existing search technology.
+* Learn to appreciate the sheer size of the Web.
+* Learn to write code for text indexing and retrieval with File I/Os.
+* Learn about the state-of-the-art in IR research. 
